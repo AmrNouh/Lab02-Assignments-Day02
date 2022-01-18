@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68b7633f-f881-4e94-b1c7-6899c6a59ec9": {
+      "ProjectGuid": "68b7633f-f881-4e94-b1c7-6899c6a59ec9",
+      "DisplayName": "CharToAscii",
+      "ColorIndex": 0
+    },
+    "a8dbfd4d-bb39-45a3-a6f9-f5a3a5ca978c": {
+      "ProjectGuid": "a8dbfd4d-bb39-45a3-a6f9-f5a3a5ca978c",
+      "DisplayName": "AsciiToChar",
+      "ColorIndex": 1
+    },
+    "2bc7a2ce-64ad-4d20-8160-6de5a5c54060": {
+      "ProjectGuid": "2bc7a2ce-64ad-4d20-8160-6de5a5c54060",
+      "DisplayName": "OddOtEven",
+      "ColorIndex": 2
+    },
+    "ee1aa414-b694-4a6b-9288-e8063e9e70ce": {
+      "ProjectGuid": "ee1aa414-b694-4a6b-9288-e8063e9e70ce",
+      "DisplayName": "NumberOperations",
+      "ColorIndex": 3
+    },
+    "17118a1f-30c3-449e-9226-d57c598767a7": {
+      "ProjectGuid": "17118a1f-30c3-449e-9226-d57c598767a7",
+      "DisplayName": "StudentGrades",
+      "ColorIndex": 4
+    },
+    "408a83d8-20a8-433e-bdf4-a75bbb03d0ff": {
+      "ProjectGuid": "408a83d8-20a8-433e-bdf4-a75bbb03d0ff",
+      "DisplayName": "MultiplcationTable",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
